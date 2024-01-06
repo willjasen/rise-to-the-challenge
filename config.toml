@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 theme = "hugo-video"
 
 title = "title goes here"
-copyright = "i made this to be funny, please don't take me down"
+copyright = "credit to human giant - i made this to be funny, please don't take me down"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
