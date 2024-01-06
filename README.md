@@ -1,2 +1,2 @@
 # rise-to-the-challenge
-under development
+ learn how to take your company to the next level
