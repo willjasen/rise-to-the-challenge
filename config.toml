@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
+theme = "hugo-video"
 
 title = "title goes here"
 copyright = " "
